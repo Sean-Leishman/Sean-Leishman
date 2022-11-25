@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="200"/>
 </div>
 <div id='links' align='center'>
-  <a href="https://www.seanleishman.com" target="_blank">
+  <a href="https://seanleishman.com" target="_blank">
     <img src="https://img.shields.io/badge/website-000?style=for-the-badge&logo=About.me&logoColor=white" /> 
   </a>
   <a href="https://www.linkedin.com/in/sean-leishman-755766202/" target="_blank">
