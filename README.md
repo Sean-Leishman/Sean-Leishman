@@ -37,7 +37,7 @@
 <br>
 <a href="https://github.com/sean-leishman">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sean-leishman&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sean-leishman&&hide=jupyter-notebook&theme=noctis_minimus&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sean-leishman&hide=jupyter%20notebook&theme=noctis_minimus&layout=compact" />
 </a>
 
 
