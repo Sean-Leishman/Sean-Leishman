@@ -1,5 +1,5 @@
 ## 👋 about me 
-🎓 studying Aritificial Intelligence and Computer Science at the University of Edinburgh, class of 2024 <br>
+🎓 studying Aritificial Intelligence and Computer Science at the University of Edinburgh, class of 2025 <br>
 🌐 just practising and expanding my knowledge <br>
 🖥 you can find all my projects here or at my [website](https://seanleishman.com) 
 
