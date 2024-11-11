@@ -3,6 +3,7 @@
   margin-left: auto;
   margin-right: auto; border-radius:100px" src="https://github.com/Sean-Leishman/Sean-Leishman/blob/3a73ff7163fb4aaa018eb6966ec23e085b7b1f1e/DALL%C2%B7E%202023-11-11%2013.18.27%20-%20An%20imaginative%2C%20surreal%20depiction%20of%20the%20'Mistborn'%20series%20by%20Brandon%20Sanderson%2C%20featuring%20mystical%20elements%2C%20swirling%20mists%2C%20and%20a%20sense%20of%20magic%20and.png">
 
+<!--
 ## 👋 about me 
 🎓 studying Aritificial Intelligence and Computer Science at the University of Edinburgh, class of 2025 <br>
 🌐 just practising and expanding my knowledge <br>
@@ -11,7 +12,7 @@
 
 
 
-<!--
+
 **Sean-Leishman/Sean-Leishman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
