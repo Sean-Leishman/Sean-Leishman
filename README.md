@@ -1,7 +1,7 @@
 <p align="center">
-<img style="width:50%; display: block;
+<img style="width:100%; display: block;
   margin-left: auto;
-  margin-right: auto; border-radius:100px" src="https://raw.githubusercontent.com/Sean-Leishman/Sean-Leishman/refs/heads/main/shoemaker.jpg">
+  margin-right: auto; border-radius:100px" src="https://raw.githubusercontent.com/Sean-Leishman/Sean-Leishman/refs/heads/main/clouds.jpg">
 
 <!--
 ## 👋 about me 
